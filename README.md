@@ -1,4 +1,4 @@
-# flutter_json_widget
+# flutter_json_viewer
 
 A Json viewer widget for flutter. Updated with null safety and added support for Array in the root level.
 
