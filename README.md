@@ -20,7 +20,7 @@ Add this to your package's pubspec.yaml file:
 
 dependencies:
 
-flutter_json_viewer: ^1.0.0
+flutter_json_viewer: ^1.0.1
 
 ```
 
