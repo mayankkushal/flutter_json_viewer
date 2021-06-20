@@ -52,31 +52,9 @@ import 'package:flutter_json_viewer/flutter_json_viewer.dart';
 
 ```
 
-@override
-
-Widget build(BuildContext context) {
-
-var testString = '''{
-
-"I": "How are you?",
-
-"You": "Excellent!"}
-
-''';
-
-Map<String, dynamic> jsonObj = jsonDecode(testString);
-
-return SafeArea(
-
-child: SingleChildScrollView(
-
-child: JsonViewer(jsonObj)
-
-),
-
-);
-
-}
+Container(
+    child: JsonViewer(jsonObj)
+)
 
 ```
 
