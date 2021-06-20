@@ -10,7 +10,7 @@ The `/example/` folder in the [GitHub repo](https://github.com/mayankkushal/flut
 
 contains a full Flutter app with demo examples.
 
-## Use this package as a library on [Dart dev](https://pub.dev/packages/flutter_json_widget)
+## Use this package as a library on [Dart dev](https://pub.dev/packages/flutter_json_viewer)
 
 ### 1. Depend on it
 
