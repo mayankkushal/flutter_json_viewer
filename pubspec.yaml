@@ -1,8 +1,8 @@
-name: flutter_json_widget
+name: flutter_json_viewer
 description: A Json viewer widget for flutter. Shows json data in an extensible list. Makes data readable on the phone easily.
-version: 1.0.3
-author: Apigj<demdog@hotmail.com>
-homepage: https://github.com/demdog/flutter_json_widget
+version: 1.0.0
+author: mayankkushal26@gmail.com
+homepage: https://github.com/mayankkushal/flutter_json_viewer
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
